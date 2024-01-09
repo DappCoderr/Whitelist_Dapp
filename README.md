@@ -12,9 +12,9 @@ To achieve this, build a whitelist contract and invite early supporters to join.
 
 For editing, compiling, debugging and deploying smart contracts we have used Hardhat.
 
-- Basic JavaScript Project setup using Hardhat
-  `npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox`
-  `npx hardhat`
+- Basic JavaScript Project setup using Hardhat.
+- `npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox`
+- `npx hardhat`
 
 - Deployment of Contract on Sepolia Network
-  `npx hardhat run scripts/deploy.js --network sepolia`
+- `npx hardhat run scripts/deploy.js --network sepolia`
